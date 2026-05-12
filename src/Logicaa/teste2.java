@@ -1,3 +1,5 @@
+package Logicaa;
+
 import java.util.*;
 public class teste2 {
     public static void main(String[] args){
