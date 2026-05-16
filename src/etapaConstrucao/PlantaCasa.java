@@ -3,8 +3,8 @@ package etapaConstrucao;
 public class PlantaCasa implements Construcao {
 //Atributos
  public int metragem;
- public int numeroBanheiros;
  public int numeroQuartos;
+ public int numeroBanheiros;
  public int escritorio;
  public String material;
  public String cor;
